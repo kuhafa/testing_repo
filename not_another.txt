@@ -1,1 +1,5 @@
 this is not another company
+Testing my git skills
+Will be reading in about 2 hours
+adding more notes to the file
+How to be a Devops Eng
